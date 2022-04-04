@@ -1,0 +1,7 @@
+service: 
+  port: "5050"
+third_party: 
+  funtranslations:
+    url: "https://api.funtranslations.com"
+  pokeapi:
+    url: "http://pokeapi.co"
