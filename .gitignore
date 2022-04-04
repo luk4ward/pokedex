@@ -1,0 +1,7 @@
+vendor/
+.env
+/app*
+.idea/
+.DS_Store
+*mocks*
+*.out
